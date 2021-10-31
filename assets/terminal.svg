@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="415" viewBox="0 0 880 415" role="img" aria-label="Terminal animation: Rasika Liyanaarachchi, System Operations Engineer, checking Kubernetes nodes and pushing a signed release tag that the CI/CD pipeline promotes to production via canary">
+<title>Rasika Liyanaarachchi - System Operations Engineer terminal</title>
+<defs>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#7aa2f7"/><stop offset="0.5" stop-color="#bb9af7"/><stop offset="1" stop-color="#7dcfff"/>
+</linearGradient>
+<filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+<feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000" flood-opacity="0.45"/>
+</filter>
+<clipPath id="win"><rect x="20" y="12" width="840" height="379" rx="12"/></clipPath>
+<clipPath id="c0"><rect x="0" y="68" height="25" width="242"><animate attributeName="width" from="242" to="298" begin="1.05s" dur="0.33s" fill="freeze"/></rect></clipPath><clipPath id="c2"><rect x="0" y="114" height="25" width="242"><animate attributeName="width" from="242" to="352" begin="2.62s" dur="0.66s" fill="freeze"/></rect></clipPath><clipPath id="c4"><rect x="0" y="160" height="25" width="242"><animate attributeName="width" from="242" to="397" begin="4.52s" dur="0.94s" fill="freeze"/></rect></clipPath><clipPath id="c8"><rect x="0" y="252" height="25" width="242"><animate attributeName="width" from="242" to="739" begin="6.97s" dur="3.02s" fill="freeze"/></rect></clipPath><clipPath id="c12"><rect x="0" y="344" height="25" width="242"></rect></clipPath>
+</defs>
+<g filter="url(#shadow)">
+<rect x="20" y="12" width="840" height="379" rx="12" fill="#1a1b26"/>
+</g>
+<g clip-path="url(#win)">
+<rect x="20" y="12" width="840" height="36" fill="#16161e"/>
+<line x1="20" y1="48" x2="860" y2="48" stroke="#2f334d"/>
+</g>
+<rect x="20" y="12" width="840" height="379" rx="12" fill="none" stroke="url(#edge)" stroke-width="1.5" opacity="0.85">
+<animate attributeName="opacity" values="0.45;0.95;0.45" dur="4s" repeatCount="indefinite"/>
+</rect>
+<circle cx="44" cy="30" r="6" fill="#f7768e"/><circle cx="64" cy="30" r="6" fill="#e0af68"/><circle cx="84" cy="30" r="6" fill="#9ece6a"/>
+<text x="440.0" y="35" text-anchor="middle" fill="#565f89" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="13">rasika@workstation: ~ (zsh)</text>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="15">
+<g opacity="0" clip-path="url(#c0)"><animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.01s" fill="freeze"/><text x="44" y="86" textLength="252" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#7aa2f7">rasika</tspan><tspan fill="#565f89">@</tspan><tspan fill="#bb9af7">workstation</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7dcfff">~</tspan><tspan fill="#c0caf5">$ </tspan><tspan fill="#c0caf5">whoami</tspan></text></g>
+<rect x="242" y="73" width="9" height="18" fill="#c0caf5" opacity="0"><animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.3550;1" dur="1.69s" begin="0s" fill="freeze" calcMode="discrete"/><animate attributeName="x" from="242" to="296" begin="1.05s" dur="0.33s" fill="freeze"/></rect>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.68s" dur="0.25s" fill="freeze"/><text x="44" y="109" textLength="450" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#7dcfff">Rasika Liyanaarachchi</tspan><tspan fill="#a9b1d6"> | System Operations Engineer</tspan></text></g>
+<g opacity="0" clip-path="url(#c2)"><animate attributeName="opacity" from="0" to="1" begin="2.17s" dur="0.01s" fill="freeze"/><text x="44" y="132" textLength="306" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#7aa2f7">rasika</tspan><tspan fill="#565f89">@</tspan><tspan fill="#bb9af7">workstation</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7dcfff">~</tspan><tspan fill="#c0caf5">$ </tspan><tspan fill="#c0caf5">cat ~/.motto</tspan></text></g>
+<rect x="242" y="119" width="9" height="18" fill="#c0caf5" opacity="0"><animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.6045;1" dur="3.59s" begin="0s" fill="freeze" calcMode="discrete"/><animate attributeName="x" from="242" to="350" begin="2.62s" dur="0.66s" fill="freeze"/></rect>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.58s" dur="0.25s" fill="freeze"/><text x="44" y="155" textLength="567" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#e0af68">Automate the toil. Harden the defaults. Keep production boring.</tspan></text></g>
+<g opacity="0" clip-path="url(#c4)"><animate attributeName="opacity" from="0" to="1" begin="4.07s" dur="0.01s" fill="freeze"/><text x="44" y="178" textLength="351" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#7aa2f7">rasika</tspan><tspan fill="#565f89">@</tspan><tspan fill="#bb9af7">workstation</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7dcfff">~</tspan><tspan fill="#c0caf5">$ </tspan><tspan fill="#c0caf5">kubectl get nodes</tspan></text></g>
+<rect x="242" y="165" width="9" height="18" fill="#c0caf5" opacity="0"><animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.7060;1" dur="5.76s" begin="0s" fill="freeze" calcMode="discrete"/><animate attributeName="x" from="242" to="395" begin="4.52s" dur="0.94s" fill="freeze"/></rect>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.75s" dur="0.25s" fill="freeze"/><text x="44" y="201" textLength="423" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#565f89">NAME        STATUS   ROLES                  AGE</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="5.89s" dur="0.25s" fill="freeze"/><text x="44" y="224" textLength="432" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#a9b1d6">infra-01    </tspan><tspan fill="#9ece6a">Ready</tspan><tspan fill="#a9b1d6">    control-plane,master   412d</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="6.03s" dur="0.25s" fill="freeze"/><text x="44" y="247" textLength="432" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#a9b1d6">infra-02    </tspan><tspan fill="#9ece6a">Ready</tspan><tspan fill="#a9b1d6">    &lt;none&gt;                 412d</tspan></text></g>
+<g opacity="0" clip-path="url(#c8)"><animate attributeName="opacity" from="0" to="1" begin="6.52s" dur="0.01s" fill="freeze"/><text x="44" y="270" textLength="693" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#7aa2f7">rasika</tspan><tspan fill="#565f89">@</tspan><tspan fill="#bb9af7">workstation</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7dcfff">~</tspan><tspan fill="#c0caf5">$ </tspan><tspan fill="#c0caf5">git tag -s v2.4.1 -m "v2.4.1" &amp;&amp; git push origin v2.4.1</tspan></text></g>
+<rect x="242" y="257" width="9" height="18" fill="#c0caf5" opacity="0"><animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.6329;1" dur="10.31s" begin="0s" fill="freeze" calcMode="discrete"/><animate attributeName="x" from="242" to="737" begin="6.97s" dur="3.02s" fill="freeze"/></rect>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="10.30s" dur="0.25s" fill="freeze"/><text x="44" y="293" textLength="486" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#565f89">remote: </tspan><tspan fill="#7dcfff">pipeline #4821 triggered</tspan><tspan fill="#a9b1d6"> (signed tag verified)</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="10.44s" dur="0.25s" fill="freeze"/><text x="44" y="316" textLength="693" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#9ece6a">[ok]</tspan><tspan fill="#a9b1d6"> lint  </tspan><tspan fill="#9ece6a">[ok]</tspan><tspan fill="#a9b1d6"> tests  </tspan><tspan fill="#9ece6a">[ok]</tspan><tspan fill="#a9b1d6"> sast  </tspan><tspan fill="#9ece6a">[ok]</tspan><tspan fill="#a9b1d6"> image-scan  </tspan><tspan fill="#9ece6a">[ok]</tspan><tspan fill="#a9b1d6"> canary 10%-&gt;50%-&gt;100%</tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="10.58s" dur="0.25s" fill="freeze"/><text x="44" y="339" textLength="630" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#7dcfff">-&gt; </tspan><tspan fill="#9ece6a">v2.4.1 promoted to prod by pipeline</tspan><tspan fill="#a9b1d6">  |  auto-rollback on SLO breach</tspan></text></g>
+<g opacity="0" clip-path="url(#c12)"><animate attributeName="opacity" from="0" to="1" begin="11.07s" dur="0.01s" fill="freeze"/><text x="44" y="362" textLength="198" lengthAdjust="spacing" xml:space="preserve"><tspan fill="#7aa2f7">rasika</tspan><tspan fill="#565f89">@</tspan><tspan fill="#bb9af7">workstation</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7dcfff">~</tspan><tspan fill="#c0caf5">$ </tspan></text></g>
+<rect x="242" y="349" width="9" height="18" fill="#c0caf5" opacity="0"><animate attributeName="opacity" values="0.9;0" dur="1.06s" begin="11.07s" repeatCount="indefinite" calcMode="discrete"/></rect>
+</g>
+</svg>

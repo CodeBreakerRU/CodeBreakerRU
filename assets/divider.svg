@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="6" viewBox="0 0 1000 6" preserveAspectRatio="none" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="0.33" stop-color="#bb9af7"/>
+      <stop offset="0.66" stop-color="#7dcfff"/>
+      <stop offset="1" stop-color="#7aa2f7"/>
+      <animate attributeName="x1" from="0" to="1000" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" from="1000" to="2000" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="1" width="1000" height="4" rx="2" fill="url(#flow)"/>
+</svg>
